@@ -1,2 +1,2 @@
 # Pygame
-Joseph
+Write your game idea here
